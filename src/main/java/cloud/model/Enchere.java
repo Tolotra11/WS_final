@@ -2,9 +2,6 @@ package cloud.model;
 
 import java.beans.Statement;
 import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.time.Instant;
 import java.time.LocalDateTime;
@@ -325,12 +322,12 @@ public class Enchere extends ObjectBDD{
 
 	}
     public static void checkStatut(Connection con) throws Exception{
-        Enchere ench = new Enchere();
+        V_enchere ench = new V_enchere();
         ench.setStatut(0);
         Object [] listeEnchere = ench.find(con);
         LocalDateTime now = LocalDateTime.now();
         for(int i = 0; i<listeEnchere.length; i++){
-            Enchere e = (Enchere)listeEnchere[i];
+            V_enchere e = (V_enchere)listeEnchere[i];
             LocalDateTime publication = e.getDateEnchere().toLocalDateTime();
             LocalDateTime finalDate = publication.plusHours(e.getDuree().longValue());
             if(now.isAfter(finalDate)){
