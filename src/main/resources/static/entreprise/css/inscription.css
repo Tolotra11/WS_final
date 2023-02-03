@@ -1,0 +1,361 @@
+.mediaViewInfo {
+	--web-view-name: inscription;
+	--web-view-id: inscription;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: inscription;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#inscription {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background: linear-gradient(180deg, rgba(59,118,179,1) 0%, rgba(30,59,90,1) 100%);
+	overflow: hidden;
+	--web-view-name: inscription;
+	--web-view-id: inscription;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	filter: drop-shadow(35px 25px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 792px;
+	height: 1017px;
+	left: 620px;
+	top: 35px;
+}
+#Inscription_c {
+	left: 881px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	height: 61px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(45,63,80,1);
+}
+#entreprise {
+	left: 881px;
+	top: 95px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_1 {
+	position: absolute;
+	width: 594px;
+	height: 60px;
+	left: 704px;
+	top: 188px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,220,220,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Nom {
+	left: 27px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Groupe_2 {
+	position: absolute;
+	width: 594px;
+	height: 60px;
+	left: 704px;
+	top: 271px;
+	overflow: visible;
+}
+#Rectangle_6_c {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,220,220,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_c {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Siege {
+	left: 27px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Groupe_5 {
+	position: absolute;
+	width: 594px;
+	height: 60px;
+	left: 704px;
+	top: 363px;
+	overflow: visible;
+}
+#Rectangle_6_da {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,220,220,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_da {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Telephone {
+	left: 27px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Groupe_6 {
+	position: absolute;
+	width: 594px;
+	height: 60px;
+	left: 704px;
+	top: 446px;
+	overflow: visible;
+}
+#Rectangle_6_dc {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,220,220,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_dc {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Mail {
+	left: 27px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Groupe_7 {
+	position: absolute;
+	width: 594px;
+	height: 60px;
+	left: 704px;
+	top: 538px;
+	overflow: visible;
+}
+#Rectangle_6_df {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,220,220,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_df {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Mot_de_passe {
+	left: 27px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Groupe_8 {
+	position: absolute;
+	width: 594px;
+	height: 60px;
+	left: 694px;
+	top: 630px;
+	overflow: visible;
+}
+#Rectangle_6_di {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,220,220,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6_di {
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+}
+#Confirmer_mot_de_passe {
+	left: 27px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Rectangle_8 {
+	fill: rgba(92,128,158,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 69px;
+	left: 862px;
+	top: 722px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: finalisation_profil.html;
+	cursor: pointer;
+}
+#Confirmer {
+	left: 919px;
+	top: 741px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Kante_Co_dm {
+	left: 51px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 40px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(248,248,248,1);
+}
+#logo_dn {
+	position: absolute;
+	width: 61px;
+	height: 63px;
+	left: 167px;
+	top: 38px;
+	overflow: visible;
+}

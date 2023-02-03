@@ -1,0 +1,479 @@
+.mediaViewInfo {
+	--web-view-name: finalisation profil;
+	--web-view-id: finalisation_profil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: finalisation_profil;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#finalisation_profil {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: finalisation profil;
+	--web-view-id: finalisation_profil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Kante_Co_dq {
+	left: 39px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 27px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#logo_dr {
+	position: absolute;
+	width: 44px;
+	height: 43px;
+	left: 112px;
+	top: 25px;
+	overflow: visible;
+}
+#Finalisez_votre_profil_dentrep {
+	left: 39px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	height: 55px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,46,58,1);
+}
+#Trac_1 {
+	fill: rgba(209,223,238,1);
+}
+.Trac_1 {
+	overflow: visible;
+	position: absolute;
+	width: 817.029px;
+	height: 1080px;
+	left: 1102.971px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_27 {
+	fill: rgba(72,162,254,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 58px;
+	left: 821px;
+	top: 965px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: acceuil.html;
+	cursor: pointer;
+}
+#Terminer {
+	left: 886px;
+	top: 982px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Composant_11__1 {
+	position: absolute;
+	width: 440px;
+	height: 241px;
+	left: 39px;
+	top: 354px;
+	overflow: visible;
+}
+#Groupe_9 {
+	position: absolute;
+	width: 440px;
+	height: 241px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(72,162,254,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+#n___________TYPE {
+	left: 0px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_10 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	height: 129px;
+	left: 2px;
+	top: 51px;
+}
+#Rectangle_11 {
+	opacity: 0;
+	fill: rgba(222,222,222,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 48px;
+	left: 300px;
+	top: 193px;
+}
+#Ajouter_une_comptence_ {
+	opacity: 0;
+	left: 29px;
+	top: 101px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(167,162,162,1);
+}
+#Ajouter {
+	opacity: 0;
+	left: 333px;
+	top: 205px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#plus-ged4284968_1280 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 112px;
+	top: 4px;
+	overflow: visible;
+}
+#Composant_11__2 {
+	position: absolute;
+	width: 440px;
+	height: 241px;
+	left: 430px;
+	top: 354px;
+	overflow: visible;
+}
+#Groupe_9_d {
+	position: absolute;
+	width: 440px;
+	height: 241px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9_d {
+	fill: rgba(72,162,254,1);
+}
+.Rectangle_9_d {
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+#SPECIALITES {
+	left: 14px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_10_d {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10_d {
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	height: 129px;
+	left: 2px;
+	top: 51px;
+}
+#Rectangle_11_ea {
+	opacity: 0;
+	fill: rgba(222,222,222,1);
+}
+.Rectangle_11_ea {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 48px;
+	left: 300px;
+	top: 193px;
+}
+#Ajouter_une_comptence__eb {
+	opacity: 0;
+	left: 29px;
+	top: 101px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(167,162,162,1);
+}
+#Ajouter_ec {
+	opacity: 0;
+	left: 333px;
+	top: 205px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#plus-ged4284968_1280_ed {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 112px;
+	top: 4px;
+	overflow: visible;
+}
+#Composant_11__3 {
+	position: absolute;
+	width: 440px;
+	height: 241px;
+	left: 821px;
+	top: 354px;
+	overflow: visible;
+}
+#Groupe_9_ef {
+	position: absolute;
+	width: 440px;
+	height: 241px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9_eg {
+	fill: rgba(72,162,254,1);
+}
+.Rectangle_9_eg {
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+#AUTRES {
+	left: 27px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_10_ei {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10_ei {
+	position: absolute;
+	overflow: visible;
+	width: 438px;
+	height: 129px;
+	left: 2px;
+	top: 51px;
+}
+#Rectangle_11_ej {
+	opacity: 0;
+	fill: rgba(222,222,222,1);
+}
+.Rectangle_11_ej {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 48px;
+	left: 300px;
+	top: 193px;
+}
+#Ajouter_une_comptence__ek {
+	opacity: 0;
+	left: 29px;
+	top: 101px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(167,162,162,1);
+}
+#Ajouter_el {
+	opacity: 0;
+	left: 333px;
+	top: 205px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#plus-ged4284968_1280_em {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 112px;
+	top: 4px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(180,180,180,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	height: 94px;
+	left: 39px;
+	top: 167px;
+}
+#Ajouter_une_photo {
+	left: 156px;
+	top: 201px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(72,162,254,1);
+}
+#camera-gd13c12778_1280 {
+	position: absolute;
+	width: 48px;
+	height: 38px;
+	left: 67px;
+	top: 191px;
+	overflow: visible;
+}

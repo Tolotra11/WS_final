@@ -1,0 +1,295 @@
+.mediaViewInfo {
+	--web-view-name: Login;
+	--web-view-id: Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Login;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Login {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background: linear-gradient(180deg, rgba(66,132,200,1) 0%, rgba(33,66,100,1) 100%);
+	overflow: hidden;
+	--web-view-name: Login;
+	--web-view-id: Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	filter: drop-shadow(35px 25px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 625px;
+	height: 956px;
+	left: 1082px;
+	top: 82px;
+}
+#Kante_Co_ce {
+	left: 391px;
+	top: 278px;
+	position: absolute;
+	overflow: visible;
+	width: 692px;
+	height: 171px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#logo_cf {
+	position: absolute;
+	width: 182px;
+	height: 175px;
+	left: 443px;
+	top: 412px;
+	overflow: visible;
+}
+#Login_cg {
+	left: 1314px;
+	top: 132px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	height: 61px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(45,63,80,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(222,222,222,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	height: 74px;
+	left: 1139px;
+	top: 290px;
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(230,230,230,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	height: 74px;
+	left: 1140px;
+	top: 412px;
+}
+#Rectangle_4 {
+	fill: rgba(92,128,158,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 69px;
+	left: 1259px;
+	top: 534px;
+}
+#id {
+	left: 1166px;
+	top: 310px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#mot_de_passe {
+	left: 1166px;
+	top: 434px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(142,135,135,1);
+}
+#Se_connecter {
+	left: 1300px;
+	top: 553px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: acceuil.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Composant_10__1 {
+	position: absolute;
+	width: 432px;
+	height: 24px;
+	left: 1153px;
+	top: 653px;
+	overflow: visible;
+}
+#Inscription_ {
+	left: 173px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(142,135,135,1);
+}
+#Ligne_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_6 {
+	overflow: visible;
+	position: absolute;
+	width: 168px;
+	height: 1px;
+	left: 0px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_7 {
+	overflow: visible;
+	position: absolute;
+	width: 168px;
+	height: 1px;
+	left: 264px;
+	top: 24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#bank-gf9c934770_1280 {
+	position: absolute;
+	width: 78px;
+	height: 69px;
+	left: 1199px;
+	top: 706px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: inscription.html;
+	cursor: pointer;
+}
+#dual-screen-ga03fc425e_1280 {
+	position: absolute;
+	width: 74px;
+	height: 69px;
+	left: 1452px;
+	top: 706px;
+	overflow: visible;
+}
+#ou {
+	left: 1357px;
+	top: 725px;
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(142,135,135,1);
+}
+#Entreprise {
+	left: 1194px;
+	top: 790px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(92,128,158,1);
+}
+#Developpeur {
+	left: 1437px;
+	top: 790px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(92,128,158,1);
+}

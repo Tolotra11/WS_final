@@ -1,0 +1,805 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 2058px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Kante_Co {
+	left: 39px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 40px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(45,63,80,1);
+}
+#Composant_5__3 {
+	position: absolute;
+	width: 45px;
+	height: 18px;
+	left: 1380px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: acceuil.html;
+	cursor: pointer;
+}
+#Acceuil {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1 {
+	overflow: visible;
+	position: absolute;
+	width: 43px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_6__3 {
+	position: absolute;
+	width: 55.5px;
+	height: 18px;
+	left: 1463px;
+	top: 35px;
+	overflow: visible;
+}
+#Profil {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2 {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_7__3 {
+	position: absolute;
+	width: 99px;
+	height: 18px;
+	left: 1584px;
+	top: 35px;
+	overflow: visible;
+}
+#Nos_partenaires {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_3 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_3 {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_8__3 {
+	position: absolute;
+	width: 48px;
+	height: 18px;
+	left: 1705px;
+	top: 35px;
+	overflow: visible;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_4 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_4 {
+	overflow: visible;
+	position: absolute;
+	width: 45px;
+	height: 1px;
+	left: 1.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_9__3 {
+	position: absolute;
+	width: 81px;
+	height: 18px;
+	left: 1826px;
+	top: 35px;
+	overflow: visible;
+}
+#Deconnexion {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_5 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_5 {
+	overflow: visible;
+	position: absolute;
+	width: 62px;
+	height: 1px;
+	left: 2.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo {
+	position: absolute;
+	width: 61px;
+	height: 63px;
+	left: 148px;
+	top: 22px;
+	overflow: visible;
+}
+#Rectangle_24 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 27px;
+	left: 39px;
+	top: 143px;
+}
+#Langage_utilis {
+	left: 51px;
+	top: 145px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Ligne_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_8 {
+	overflow: visible;
+	position: absolute;
+	width: 5.844px;
+	height: 10.276px;
+	left: 164.5px;
+	top: 152.75px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_12 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_12 {
+	overflow: visible;
+	position: absolute;
+	width: 5.844px;
+	height: 10.276px;
+	left: 168.5px;
+	top: 152.75px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_31 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 75px;
+	left: 39px;
+	top: 180px;
+}
+#Que_recherchez_vous_ {
+	left: 55px;
+	top: 188px;
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Rectangle_32 {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	height: 58px;
+	left: 332px;
+	top: 189px;
+}
+#PUBLIER {
+	left: 352px;
+	top: 211px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Crez_votre_offre_de_stage_ {
+	left: 39px;
+	top: 118px;
+	position: absolute;
+	overflow: visible;
+	width: 433px;
+	height: 50px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(55,110,167,1);
+}
+#Ligne_13 {
+	fill: transparent;
+	stroke: rgba(55,110,167,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_13 {
+	overflow: visible;
+	position: absolute;
+	width: 1827px;
+	height: 3px;
+	left: 39.5px;
+	top: 301.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grille_de_rptition_4 {
+	position: absolute;
+	width: 458px;
+	height: 1678px;
+	left: 731px;
+	top: 407px;
+	overflow: hidden;
+}
+#Group {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grille_de_rptition_3 {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Group_bg {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_33 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(207,207,207,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_34 {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 44px;
+	left: 176px;
+	top: 399px;
+}
+#Stage {
+	left: 44px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,63,80,1);
+}
+#Description_du_stage {
+	left: 166px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Voir_les_postulants {
+	left: 192px;
+	top: 414px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___12.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_bm {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 559px;
+	overflow: visible;
+}
+#Grille_de_rptition_3_bn {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Group_bo {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_33_bp {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(207,207,207,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_33_bp {
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_34_bq {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_34_bq {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 44px;
+	left: 176px;
+	top: 399px;
+}
+#Stage_br {
+	left: 44px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,63,80,1);
+}
+#Description_du_stage_bs {
+	left: 166px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Voir_les_postulants_bt {
+	left: 192px;
+	top: 414px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_bu {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 1118px;
+	overflow: visible;
+}
+#Grille_de_rptition_3_bv {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Group_bw {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_33_bx {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(207,207,207,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_33_bx {
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_34_by {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_34_by {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 44px;
+	left: 176px;
+	top: 399px;
+}
+#Stage_bz {
+	left: 44px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,63,80,1);
+}
+#Description_du_stage_b {
+	left: 166px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Voir_les_postulants_b {
+	left: 192px;
+	top: 414px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Group_b {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 1677px;
+	overflow: visible;
+}
+#Grille_de_rptition_3_b {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#Group_ca {
+	position: absolute;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_33_b {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(207,207,207,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_33_b {
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_34_b {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_34_b {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 44px;
+	left: 176px;
+	top: 399px;
+}
+#Stage_b {
+	left: 44px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,63,80,1);
+}
+#Description_du_stage_ca {
+	left: 166px;
+	top: 224px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Voir_les_postulants_ca {
+	left: 192px;
+	top: 414px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}

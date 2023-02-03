@@ -1,0 +1,1168 @@
+.mediaViewInfo {
+	--web-view-name: Acceuil;
+	--web-view-id: Acceuil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Acceuil;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Acceuil {
+	position: absolute;
+	width: 1920px;
+	height: 3952px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Acceuil;
+	--web-view-id: Acceuil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Kante_Co {
+	left: 39px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 40px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(45,63,80,1);
+}
+#Composant_5__1 {
+	position: absolute;
+	width: 45px;
+	height: 18px;
+	left: 1380px;
+	top: 35px;
+	overflow: visible;
+}
+#Acceuil_i {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1 {
+	overflow: visible;
+	position: absolute;
+	width: 43px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_6__1 {
+	position: absolute;
+	width: 56px;
+	height: 18px;
+	left: 1463px;
+	top: 35px;
+	overflow: visible;
+}
+#A_propos {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2 {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_7__1 {
+	position: absolute;
+	width: 99px;
+	height: 18px;
+	left: 1584px;
+	top: 35px;
+	overflow: visible;
+}
+#Nos_partenaires {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_3 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_3 {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_8__1 {
+	position: absolute;
+	width: 48px;
+	height: 18px;
+	left: 1705px;
+	top: 35px;
+	overflow: visible;
+}
+#Contact {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_4 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_4 {
+	overflow: visible;
+	position: absolute;
+	width: 45px;
+	height: 1px;
+	left: 1.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_9__1 {
+	position: absolute;
+	width: 66px;
+	height: 18px;
+	left: 1826px;
+	top: 35px;
+	overflow: visible;
+}
+#Connexion {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_5 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_5 {
+	overflow: visible;
+	position: absolute;
+	width: 62px;
+	height: 1px;
+	left: 2.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo {
+	position: absolute;
+	width: 61px;
+	height: 63px;
+	left: 148px;
+	top: 22px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(117,184,252,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 974px;
+	left: 0px;
+	top: 106px;
+}
+#Une_plateforme_ {
+	left: 910px;
+	top: 411px;
+	position: absolute;
+	overflow: visible;
+	width: 230px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#pour_la_recherche_de_stages_et {
+	left: 704px;
+	top: 446px;
+	position: absolute;
+	overflow: visible;
+	width: 694px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Composant_12__1 {
+	position: absolute;
+	width: 172px;
+	height: 65px;
+	left: 925px;
+	top: 540px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: transparent;
+	stroke: rgba(255,254,254,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#Voir_nos_modules_ {
+	left: 952px;
+	top: 560px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Nos_modules_ {
+	left: 933px;
+	top: 1195px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_1 {
+	position: absolute;
+	width: 343px;
+	height: 508px;
+	left: 474px;
+	top: 1352px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: rgba(238,238,238,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	height: 508px;
+	left: 0px;
+	top: 0px;
+}
+#bank-gf9c934770_1280 {
+	position: absolute;
+	width: 343px;
+	height: 324px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Entreprise__ {
+	left: 123px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Entreprise__ {
+	left: 123px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_2 {
+	position: absolute;
+	width: 343px;
+	height: 508px;
+	left: 840px;
+	top: 1352px;
+	overflow: visible;
+}
+#Rectangle_3_ba {
+	fill: rgba(238,238,238,1);
+}
+.Rectangle_3_ba {
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	height: 508px;
+	left: 0px;
+	top: 0px;
+}
+#bank-gf9c934770_1280_bb {
+	position: absolute;
+	width: 343px;
+	height: 324px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Dveloppeur {
+	left: 123px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_3 {
+	position: absolute;
+	width: 343px;
+	height: 508px;
+	left: 1206px;
+	top: 1352px;
+	overflow: visible;
+}
+#Rectangle_3_be {
+	fill: rgba(238,238,238,1);
+}
+.Rectangle_3_be {
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	height: 508px;
+	left: 0px;
+	top: 0px;
+}
+#bank-gf9c934770_1280_bf {
+	position: absolute;
+	width: 343px;
+	height: 324px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Etudiant {
+	left: 123px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Module_destin_aux_entreprises_ {
+	left: 489px;
+	top: 1733px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 32px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Module_comprenant_des_missions {
+	left: 864px;
+	top: 1733px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 32px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Destin_aux_tudiants__la_recher {
+	left: 1230px;
+	top: 1733px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 32px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Notre_plateforme_propose_les_m {
+	left: 862px;
+	top: 1252px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 32px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Rectangle_4 {
+	fill: rgba(255,186,107,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 688px;
+	left: 0px;
+	top: 2039px;
+}
+#Nos_modules_vous_intrressent-i {
+	left: 37px;
+	top: 2146px;
+	position: absolute;
+	overflow: visible;
+	width: 475px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Rejoignez-nous_ {
+	left: 886px;
+	top: 2321px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#pour_en_profiter_ds_maintenant {
+	left: 794px;
+	top: 2353px;
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	height: 66px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Composant_12__2 {
+	position: absolute;
+	width: 172px;
+	height: 65px;
+	left: 889px;
+	top: 2407px;
+	overflow: visible;
+}
+#Rectangle_2_bq {
+	fill: transparent;
+	stroke: rgba(255,254,254,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bq {
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	height: 65px;
+	left: 0px;
+	top: 0px;
+}
+#Sinscrire_ {
+	left: 943px;
+	top: 2427px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Groupe_4 {
+	position: absolute;
+	width: 174px;
+	height: 222px;
+	left: 593px;
+	top: 2835px;
+	overflow: visible;
+}
+#avatar-g5ebf402be_1280 {
+	position: absolute;
+	width: 174px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mitasoa_ {
+	left: 51px;
+	top: 172px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Chef_de_projet {
+	left: 51px;
+	top: 206px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_5 {
+	position: absolute;
+	width: 174px;
+	height: 218px;
+	left: 890px;
+	top: 2835px;
+	overflow: visible;
+}
+#teacher-gdb155738d_1280 {
+	position: absolute;
+	width: 174px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Miora {
+	left: 60px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Developpeur_ {
+	left: 53px;
+	top: 202px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_6 {
+	position: absolute;
+	width: 174px;
+	height: 220px;
+	left: 1187px;
+	top: 2835px;
+	overflow: visible;
+}
+#avatar-g5ebf402be_1280_b {
+	position: absolute;
+	width: 174px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Idealy {
+	left: 60px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Developpeur_rseau {
+	left: 35px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_7 {
+	position: absolute;
+	width: 174px;
+	height: 222px;
+	left: 593px;
+	top: 3102px;
+	overflow: visible;
+}
+#avatar-g5ebf402be_1280_ca {
+	position: absolute;
+	width: 174px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Tanjona_ {
+	left: 51px;
+	top: 172px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Communication_b {
+	left: 47px;
+	top: 206px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Communication_b {
+	left: 47px;
+	top: 206px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_8 {
+	position: absolute;
+	width: 174px;
+	height: 220px;
+	left: 890px;
+	top: 3102px;
+	overflow: visible;
+}
+#teacher-gdb155738d_1280_ca {
+	position: absolute;
+	width: 174px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mbola_ {
+	left: 57px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Comptable_ {
+	left: 57px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Groupe_9 {
+	position: absolute;
+	width: 174px;
+	height: 220px;
+	left: 1187px;
+	top: 3102px;
+	overflow: visible;
+}
+#avatar-g5ebf402be_1280_ce {
+	position: absolute;
+	width: 174px;
+	height: 166px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Tolotra {
+	left: 56px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Commercialmarketing {
+	left: 36px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(45,63,80,1);
+}
+#Notre_quipe {
+	left: 916px;
+	top: 2745px;
+	position: absolute;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(45,63,80,1);
+}
+#Rectangle_5 {
+	fill: rgba(45,63,80,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 543px;
+	left: 0px;
+	top: 3410px;
+}
+#Contact_cj {
+	left: 66px;
+	top: 3462px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Suivez_nous_sur {
+	left: 65px;
+	top: 3617px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#kantecompagniegmailcom {
+	left: 66px;
+	top: 3512px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 16px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Composant_11__1 {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 49px;
+	top: 3650px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	height: 31px;
+	left: 16px;
+	top: 15px;
+}
+#pm-on-facebook-diamond-paintin {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Nos_services {
+	left: 634px;
+	top: 3462px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Autres {
+	left: 634px;
+	top: 3617px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Kante_Co_cr {
+	left: 943px;
+	top: 3907px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 16px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Composant_13__1 {
+	position: absolute;
+	width: 295px;
+	height: 560px;
+	left: 1536px;
+	top: 428px;
+	overflow: visible;
+}
+#PicsArt_08-22-020917 {
+	position: absolute;
+	width: 47px;
+	height: 44px;
+	left: 243px;
+	top: 516px;
+	overflow: visible;
+}
+#Composant_12__3 {
+	opacity: 0;
+	position: absolute;
+	width: 295px;
+	height: 491px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_20 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(194,194,194,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 339px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_21 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	height: 84px;
+	left: 9px;
+	top: 354px;
+}
+#Rectangle_22 {
+	fill: rgba(72,162,254,1);
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	height: 50px;
+	left: 216px;
+	top: 441px;
+}
+#Rectangle_23 {
+	fill: rgba(72,162,254,1);
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	height: 47px;
+	left: 27px;
+	top: 44px;
+}
+#Besoin_daide_ {
+	left: 62px;
+	top: 59px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Envoyer {
+	left: 236px;
+	top: 459px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Votre_message_ici_ {
+	left: 33px;
+	top: 374px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(194,194,194,1);
+}

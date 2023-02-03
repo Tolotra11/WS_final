@@ -1,0 +1,362 @@
+.mediaViewInfo {
+	--web-view-name: acceuil;
+	--web-view-id: acceuil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: acceuil;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#acceuil {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: acceuil;
+	--web-view-id: acceuil;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Kante_Co_es {
+	left: 39px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 40px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(45,63,80,1);
+}
+#Composant_5__1 {
+	position: absolute;
+	width: 45px;
+	height: 18px;
+	left: 1380px;
+	top: 35px;
+	overflow: visible;
+}
+#Acceuil_eu {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_1_ev {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1_ev {
+	overflow: visible;
+	position: absolute;
+	width: 43px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_6__1 {
+	position: absolute;
+	width: 55.5px;
+	height: 18px;
+	left: 1463px;
+	top: 35px;
+	overflow: visible;
+}
+#Profil_ex {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_2_ey {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2_ey {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_7__1 {
+	position: absolute;
+	width: 99px;
+	height: 18px;
+	left: 1584px;
+	top: 35px;
+	overflow: visible;
+}
+#Nos_partenaires_e {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_3_e {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_3_e {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_8__1 {
+	position: absolute;
+	width: 48px;
+	height: 18px;
+	left: 1705px;
+	top: 35px;
+	overflow: visible;
+}
+#Contact_e {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_4_e {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_4_e {
+	overflow: visible;
+	position: absolute;
+	width: 45px;
+	height: 1px;
+	left: 1.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_9__1 {
+	position: absolute;
+	width: 81px;
+	height: 18px;
+	left: 1826px;
+	top: 35px;
+	overflow: visible;
+}
+#Deconnexion_e {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_5_e {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_5_e {
+	overflow: visible;
+	position: absolute;
+	width: 62px;
+	height: 1px;
+	left: 2.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_e {
+	position: absolute;
+	width: 61px;
+	height: 63px;
+	left: 148px;
+	top: 22px;
+	overflow: visible;
+}
+#Composant_14__1 {
+	position: absolute;
+	width: 197px;
+	height: 275px;
+	left: 669px;
+	top: 349px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#Rectangle_3_fa {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_fa {
+	filter: drop-shadow(5px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	height: 293px;
+	left: 0px;
+	top: 0px;
+}
+#Stages_Trouver-un-stage {
+	position: absolute;
+	width: 197px;
+	height: 175px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Stages {
+	left: 140.316px;
+	top: 212px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Composant_18__1 {
+	position: absolute;
+	width: 197px;
+	height: 275px;
+	left: 1077px;
+	top: 349px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___14.html;
+	cursor: pointer;
+}
+#Rectangle_3_fe {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3_fe {
+	filter: drop-shadow(5px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	height: 293px;
+	left: 8px;
+	top: 0px;
+}
+#bank-gf9c934770_1280_ff {
+	position: absolute;
+	width: 189px;
+	height: 173px;
+	left: 0px;
+	top: 8.5px;
+	overflow: visible;
+}
+#Universit_partenaire {
+	left: 45px;
+	top: 208.363px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}

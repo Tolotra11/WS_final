@@ -1,0 +1,566 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 14;
+	--web-view-id: Web_1920__14;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__14;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__14 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 14;
+	--web-view-id: Web_1920__14;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Nos_universits {
+	left: 836px;
+	top: 144px;
+	position: absolute;
+	overflow: visible;
+	width: 433px;
+	height: 50px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(45,63,80,1);
+}
+#Grille_de_rptition_1 {
+	position: absolute;
+	width: 447px;
+	height: 40px;
+	left: 794px;
+	top: 213px;
+	overflow: hidden;
+}
+#Group_fl {
+	position: absolute;
+	width: 148px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_24_fm {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24_fm {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+}
+#Group_fn {
+	position: absolute;
+	width: 148px;
+	height: 27px;
+	left: 166px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_24_fo {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24_fo {
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+}
+#navi-search-search-window-icon {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 1119px;
+	top: 215px;
+	overflow: visible;
+}
+#Nom_ {
+	left: 806px;
+	top: 215px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Siege_ {
+	left: 969px;
+	top: 215px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(177,177,177,1);
+}
+#Rsultats__2 {
+	left: 50px;
+	top: 332px;
+	position: absolute;
+	overflow: hidden;
+	width: 120px;
+	height: 21px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(45,63,80,1);
+}
+#Grille_de_rptition_2 {
+	position: absolute;
+	width: 1809px;
+	height: 617px;
+	left: 50.5px;
+	top: 415px;
+	overflow: hidden;
+}
+#Group_fu {
+	position: absolute;
+	width: 1809px;
+	height: 288.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#school-design-g67a4af841_1280 {
+	position: absolute;
+	width: 244px;
+	height: 223px;
+	left: 128.5px;
+	top: 0px;
+	overflow: visible;
+}
+#Universit_1_ {
+	left: 401.5px;
+	top: 1px;
+	position: absolute;
+	overflow: hidden;
+	width: 433px;
+	height: 50px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(55,110,167,1);
+}
+#Description_de_luniversit {
+	left: 401.5px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(109,120,132,1);
+}
+#Rectangle_26 {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 38px;
+	left: 637.5px;
+	top: 185px;
+}
+#Voir_plus {
+	left: 648.5px;
+	top: 195px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Ligne_11 {
+	fill: transparent;
+	stroke: rgba(187,176,176,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_11 {
+	overflow: visible;
+	position: absolute;
+	width: 1809px;
+	height: 5px;
+	left: 0px;
+	top: 288.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_f {
+	position: absolute;
+	width: 1809px;
+	height: 288.5px;
+	left: 0px;
+	top: 311px;
+	overflow: visible;
+}
+#school-design-g67a4af841_1280_f {
+	position: absolute;
+	width: 244px;
+	height: 223px;
+	left: 128.5px;
+	top: 0px;
+	overflow: visible;
+}
+#Universit_2_ {
+	left: 401.5px;
+	top: 1px;
+	position: absolute;
+	overflow: hidden;
+	width: 433px;
+	height: 50px;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(55,110,167,1);
+}
+#Description_de_luniversit_f {
+	left: 401.5px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(109,120,132,1);
+}
+#Rectangle_26_f {
+	fill: rgba(55,110,167,1);
+}
+.Rectangle_26_f {
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	height: 38px;
+	left: 637.5px;
+	top: 185px;
+}
+#Voir_plus_f {
+	left: 648.5px;
+	top: 195px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Ligne_11_f {
+	fill: transparent;
+	stroke: rgba(187,176,176,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_11_f {
+	overflow: visible;
+	position: absolute;
+	width: 1809px;
+	height: 5px;
+	left: 0px;
+	top: 288.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Kante_Co_f {
+	left: 39px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	height: 40px;
+	text-align: left;
+	font-family: The Brands;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(45,63,80,1);
+}
+#Composant_5__2 {
+	position: absolute;
+	width: 45px;
+	height: 18px;
+	left: 1380px;
+	top: 35px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: acceuil.html;
+	cursor: pointer;
+}
+#Acceuil_ga {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_1_gb {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_1_gb {
+	overflow: visible;
+	position: absolute;
+	width: 43px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_6__2 {
+	position: absolute;
+	width: 55.5px;
+	height: 18px;
+	left: 1463px;
+	top: 35px;
+	overflow: visible;
+}
+#Profil_gd {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_2_ge {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2_ge {
+	overflow: visible;
+	position: absolute;
+	width: 55px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_7__2 {
+	position: absolute;
+	width: 99px;
+	height: 18px;
+	left: 1584px;
+	top: 35px;
+	overflow: visible;
+}
+#Nos_partenaires_gg {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_3_gh {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_3_gh {
+	overflow: visible;
+	position: absolute;
+	width: 97px;
+	height: 1px;
+	left: 0.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_8__2 {
+	position: absolute;
+	width: 48px;
+	height: 18px;
+	left: 1705px;
+	top: 35px;
+	overflow: visible;
+}
+#Contact_gj {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_4_gk {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_4_gk {
+	overflow: visible;
+	position: absolute;
+	width: 45px;
+	height: 1px;
+	left: 1.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Composant_9__2 {
+	position: absolute;
+	width: 81px;
+	height: 18px;
+	left: 1826px;
+	top: 35px;
+	overflow: visible;
+}
+#Deconnexion_gm {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(45,63,80,1);
+}
+#Ligne_5_gn {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_5_gn {
+	overflow: visible;
+	position: absolute;
+	width: 62px;
+	height: 1px;
+	left: 2.5px;
+	top: 15.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo_go {
+	position: absolute;
+	width: 61px;
+	height: 63px;
+	left: 148px;
+	top: 22px;
+	overflow: visible;
+}
