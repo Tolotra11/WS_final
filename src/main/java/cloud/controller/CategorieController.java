@@ -76,6 +76,21 @@ public class CategorieController {
         return map;
     }
     @CrossOrigin
+    @GetMapping("/acategories")
+    public HashMap<String,Object> lCategorie(){
+        HashMap<String,Object> map = null;
+            try{
+                map = new HashMap<>();
+                Object [] lcat = new Categorie().find(null);
+                map.put("data",lcat);
+            }
+            catch(Exception e){
+                Error err = new Error();
+                return err.getError(e.getMessage());
+            }
+        return map;
+    }
+    @CrossOrigin
     @GetMapping("/categories/{idCat}")
     public HashMap<String,Object> oneCategorie(@RequestHeader(name="token",required=false) String token, @PathVariable int idCat){
         HashMap<String,Object> map = null;
