@@ -59,7 +59,6 @@ public class AdminController {
                     }
                 parametre.setId(1);
                 parametre.update();
-                
                 Success success = new Success();
                 success.setMessage("Configuration effectuée avec succès");
                 map.put("success", success);
