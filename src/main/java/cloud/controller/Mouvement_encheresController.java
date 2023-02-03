@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import cloud.model.Error;
 import cloud.model.Mouvement_encheres;
+import cloud.model.V_mouvement_encheres;
 import cloud.util.TokenUtil;
 
 @RestController
@@ -29,8 +30,8 @@ public class Mouvement_encheresController {
                     return err.getError("You're not autorizhed");
                 }     
                 int idUser = Integer.parseInt(user.split(" ")[1]);
-                Mouvement_encheres mves = new Mouvement_encheres();
-                mves.setUtilisateurId(idUser);
+               V_mouvement_encheres mves = new V_mouvement_encheres();
+                mves.setIdClient(idUser);
                 Object [] lmves = mves.find(null);
                 map.put("data",lmves);
             }

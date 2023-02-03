@@ -23,6 +23,7 @@ import cloud.model.Image;
 import cloud.model.Success;
 import cloud.model.Utilisateur;
 import cloud.model.V_enchere;
+import cloud.model.V_enchereWithoutImage;
 import cloud.util.TokenUtil;
 import cloud.util.Util;
 
@@ -224,7 +225,7 @@ public class EnchereController {
 	    			) throws Exception{	      
 	 		String requete = Enchere.construct_request(titre, description, prixMinimal, prixMaximal, dateDebut, dateFin, categorieId, statut);
 	 		HashMap<String,Object> map = new HashMap<>();
-            map.put("data",new V_enchere().find(null, requete));
+            map.put("data",new V_enchereWithoutImage().find(null, requete));
 	 		 return map;
 	 	}
         @CrossOrigin
