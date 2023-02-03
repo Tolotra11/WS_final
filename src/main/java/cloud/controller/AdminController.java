@@ -58,6 +58,18 @@ public class AdminController {
                         return err.getError("You're not autorizhed");
                     }
                 parametre.setId(1);
+                if(parametre.getCommission()<0 || parametre.getCommission()>100){
+                    Error err = new Error();
+                    return err.getError("Commission invalide");
+                }
+                if(parametre.getDureeEnchereMax()<0){
+                    Error err = new Error();
+                    return err.getError("Durre invalide");
+                }
+                if(parametre.getDureeEnchereMin()<0){
+                    Error err = new Error();
+                    return err.getError("Durre invalide");
+                }
                 parametre.update();
                 Success success = new Success();
                 success.setMessage("Configuration effectuée avec succès");
