@@ -322,12 +322,12 @@ public class Enchere extends ObjectBDD{
 
 	}
     public static void checkStatut(Connection con) throws Exception{
-        V_enchere ench = new V_enchere();
+        Encheres ench = new Encheres();
         ench.setStatut(0);
         Object [] listeEnchere = ench.find(con);
         LocalDateTime now = LocalDateTime.now();
         for(int i = 0; i<listeEnchere.length; i++){
-            V_enchere e = (V_enchere)listeEnchere[i];
+            Encheres e = (Encheres)listeEnchere[i];
             LocalDateTime publication = e.getDateEnchere().toLocalDateTime();
             LocalDateTime finalDate = publication.plusHours(e.getDuree().longValue());
             if(now.isAfter(finalDate)){
