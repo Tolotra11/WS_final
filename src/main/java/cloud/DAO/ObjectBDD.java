@@ -340,7 +340,9 @@ public class ObjectBDD {
                     DateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
                     v.add("'" + sdf.format(this.getClass().getMethods()[idMethod].invoke(this)) + "'");
                 } else {
-                    v.add("'" + this.getClass().getMethods()[idMethod].invoke(this).toString() + "'");
+                    String donne = this.getClass().getMethods()[idMethod].invoke(this).toString();
+                    String escape = donne.replace("'", "''");
+                    v.add("'" + escape + "'");
                 }
             }
         }
